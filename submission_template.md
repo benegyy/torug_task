@@ -2,7 +2,7 @@
 
 ## Candidate
 - Name: Bengisu Karaca
-- Approximate time spent:
+- Approximate time spent: 4-5h
 
 ---
 
